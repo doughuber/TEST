@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Guru99 Test Automation Test Suite" duration-ms="46597" started-at="2021-03-24T14:48:53Z" finished-at="2021-03-24T14:49:39Z">
+    <groups>
+    </groups>
+    <test name="Guru99 Test Cases" duration-ms="46597" started-at="2021-03-24T14:48:53Z" finished-at="2021-03-24T14:49:39Z">
+      <class name="com.guru99.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.testcases.HomePageTest@614c5515]" name="setUp" is-config="true" duration-ms="16458" started-at="2021-03-24T20:18:53Z" finished-at="2021-03-24T20:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="printNumberOfTopicsUnderGivenHeadingTest()[pri:1, instance:com.guru99.testcases.HomePageTest@614c5515]" name="printNumberOfTopicsUnderGivenHeadingTest" duration-ms="154" started-at="2021-03-24T20:19:09Z" finished-at="2021-03-24T20:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printNumberOfTopicsUnderGivenHeadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.testcases.HomePageTest@614c5515]" name="tearDown" is-config="true" duration-ms="1034" started-at="2021-03-24T20:19:09Z" finished-at="2021-03-24T20:19:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.testcases.HomePageTest@614c5515]" name="setUp" is-config="true" duration-ms="16211" started-at="2021-03-24T20:19:10Z" finished-at="2021-03-24T20:19:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchGivenCourseAndFindRecordCountTest()[pri:2, instance:com.guru99.testcases.HomePageTest@614c5515]" name="searchGivenCourseAndFindRecordCountTest" duration-ms="11694" started-at="2021-03-24T20:19:27Z" finished-at="2021-03-24T20:19:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGivenCourseAndFindRecordCountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.testcases.HomePageTest@614c5515]" name="tearDown" is-config="true" duration-ms="1018" started-at="2021-03-24T20:19:38Z" finished-at="2021-03-24T20:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.testcases.HomePageTest -->
+    </test> <!-- Guru99 Test Cases -->
+  </suite> <!-- Guru99 Test Automation Test Suite -->
+</testng-results>

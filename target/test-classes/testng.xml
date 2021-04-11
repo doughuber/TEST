@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Guru99 Test Automation Test Suite">
+
+	<test name="Guru99 Test Cases">
+		<classes>
+			<class name="com.guru99.testcases.HomePageTest"></class>
+		</classes>
+	</test>
+</suite>
